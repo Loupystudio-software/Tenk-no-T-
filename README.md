@@ -1,4 +1,4 @@
-# Tenkū no Tō
+# 天空の塔
 
 Welcome to the official public website for Tenkū no Tō!
 Here, you'll be able to find plenty of informations about our little project.
